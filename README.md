@@ -1,2 +1,5 @@
 # structure2vec-tf
-(start of) implementing structure2vec in just tensorflow
+
+This is the start of implementing a simplified version of structure2vec, as described in section 3 of 
+
+Right now it is in a very preliminary form.
